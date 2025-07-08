@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Casa Playa Hermosa",
+      "address": "Tamarindo, Guanacaste, Costa Rica",
+      "description": "Hermosa casa con vista al mar y piscina.",
+      "price": 250,
+      "image": "/images/casa1.jpg",
+      "city": "Tamarindo"
+    },
+    {
+      "id": 2,
+      "name": "Apartamento Centro",
+      "address": "San José, Costa Rica",
+      "description": "Apartamento céntrico, cerca de todo.",
+      "price": 150,
+      "image": "/images/casa2.jpg",
+      "city": "San Jose"
+    },
+    {
+      "id": 3,
+      "name": "Villa Montaña Verde",
+      "address": "Monteverde, Puntarenas, Costa Rica",
+      "description": "Villa ecológica rodeada de naturaleza y vistas impresionantes al bosque nuboso.",
+      "price": 320,
+      "image": "/images/casa3.jpg",
+      "city": "Monteverde"
+    },
+    {
+      "id": 4,
+      "name": "Loft Escazú Moderno",
+      "address": "Escazú, San José, Costa Rica",
+      "description": "Loft contemporáneo con acabados premium y terraza privada en zona exclusiva.",
+      "price": 210,
+      "image": "/images/casa4.jpg",
+      "city": "Escazu"
+    },
+    {
+      "id": 5,
+      "name": "Residencia Jacó Sol",
+      "address": "Jacó, Puntarenas, Costa Rica",
+      "description": "Residencia espaciosa a pocos minutos de la playa, perfecta para familias grandes.",
+      "price": 280,
+      "image": "/images/casa5.jpg",
+      "city": "Jaco"
+    },
+    {
+      "id": 6,
+      "name": "Penthouse Vista al Valle",
+      "address": "Santa Ana, San José, Costa Rica",
+      "description": "Penthouse de lujo con vista panorámica y acceso a piscina, gimnasio y áreas sociales.",
+      "price": 400,
+      "image": "/images/casa6.jpg",
+      "city": "Santa Ana"
+    }
+  ]
+  
