@@ -15,8 +15,8 @@ El proyecto fue desarrollado como solución a un reto técnico, priorizando la f
 ## 🚀 Deploy en Producción
 
 - **URL del proyecto:**  
-  [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard.vercel.app)  
-  *(Sustituya por su enlace real de Vercel)*
+  [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard-oceans-three.vercel.app/login)  
+
 
 ---
 
