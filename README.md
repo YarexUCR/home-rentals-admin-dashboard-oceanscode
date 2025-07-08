@@ -13,7 +13,7 @@ Este panel de administración permite a los encargados de una plataforma de alqu
 ## 🚀 Deploy en Producción
 
 - **URL del proyecto:**  
-  [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard-oceans-three.vercel.app)  
+  [home-rentals-admin-dashboard-oceans-three.vercel.app](https://home-rentals-admin-dashboard-oceans-three.vercel.app)  
 
 
 ---
