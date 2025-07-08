@@ -23,7 +23,7 @@
       "address": "Monteverde, Puntarenas, Costa Rica",
       "description": "Villa ecológica rodeada de naturaleza y vistas impresionantes al bosque nuboso.",
       "price": 320,
-      "image": "/images/casa3.jpg",
+      "image": "/images/casa5.jpg",
       "city": "Monteverde"
     },
     {
@@ -41,7 +41,7 @@
       "address": "Jacó, Puntarenas, Costa Rica",
       "description": "Residencia espaciosa a pocos minutos de la playa, perfecta para familias grandes.",
       "price": 280,
-      "image": "/images/casa5.jpg",
+      "image": "/images/casa3.jpg",
       "city": "Jaco"
     },
     {
