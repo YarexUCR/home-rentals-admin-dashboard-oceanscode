@@ -4,6 +4,14 @@ import Header from "../components/Header";
 import PropertyList from "../components/PropertyList";
 
 export default function Home() {
+  const router = useRouter();
+
+  useEffect(() => {
+    // Si no hay "auth" en localStorage, redirige al login
+    if (typeof window !== "undefined" && !localStorage.getItem("auth")) {
+      router.replace("/login");
+    }
+  }, []);
   return (
     <>
       <Header />
