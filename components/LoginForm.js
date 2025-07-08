@@ -10,7 +10,7 @@ export default function LoginForm() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (email === "admin@demo.com" && password === "admin123") {
+    if (email === "test@oceans.com" && password === "admin123") {
       localStorage.setItem("auth", "true");
       router.push("/");
     } else {

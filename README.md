@@ -8,21 +8,19 @@
 
 Este panel de administración permite a los encargados de una plataforma de alquiler de propiedades gestionar y visualizar información relevante de los inmuebles, accediendo además al clima actualizado de cada localización mediante la integración con el servicio OpenWeatherMap.
 
-El proyecto fue desarrollado como solución a un reto técnico, priorizando la funcionalidad, claridad de código y una experiencia de usuario eficiente.
-
 ---
 
 ## 🚀 Deploy en Producción
 
 - **URL del proyecto:**  
-  [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard-oceans-three.vercel.app/login)  
+  [https://home-rentals-admin-dashboard.vercel.app](https://home-rentals-admin-dashboard-oceans-three.vercel.app)  
 
 
 ---
 
 ## 👤 Credenciales de Acceso
 
-- **Usuario:** `admin@demo.com`
+- **Usuario:** `test@oceans.com`
 - **Contraseña:** `admin123`
 
 ---
@@ -33,7 +31,7 @@ El proyecto fue desarrollado como solución a un reto técnico, priorizando la f
 - **Listado de propiedades** en formato de tarjetas, con visualización de nombre, dirección, precio y fotografía
 - **Detalle ampliado de cada propiedad**, incluyendo descripción completa e imagen destacada
 - **Consulta del clima en tiempo real** para la ciudad asociada a cada inmueble (API de OpenWeatherMap)
-- **Botón para cerrar sesión y proteger el acceso a información sensible**
+- **Botón para cerrar sesión**
 
 ---
 
